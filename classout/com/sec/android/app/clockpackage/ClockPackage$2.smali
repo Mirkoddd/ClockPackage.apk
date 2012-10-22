@@ -1,4 +1,4 @@
-.class Lcom/sec/android/app/clockpackage/ClockPackage$1;
+.class Lcom/sec/android/app/clockpackage/ClockPackage$2;
 .super Ljava/lang/Object;
 .source "ClockPackage.java"
 
@@ -8,7 +8,7 @@
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingMethod;
-    value = Lcom/sec/android/app/clockpackage/ClockPackage;->onCreate(Landroid/os/Bundle;)V
+    value = Lcom/sec/android/app/clockpackage/ClockPackage;->onConfigurationChanged(Landroid/content/res/Configuration;)V
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
@@ -27,8 +27,8 @@
     .parameter
 
     .prologue
-    .line 192
-    iput-object p1, p0, Lcom/sec/android/app/clockpackage/ClockPackage$1;->this$0:Lcom/sec/android/app/clockpackage/ClockPackage;
+    .line 309
+    iput-object p1, p0, Lcom/sec/android/app/clockpackage/ClockPackage$2;->this$0:Lcom/sec/android/app/clockpackage/ClockPackage;
 
     invoke-direct/range {p0 .. p0}, Ljava/lang/Object;-><init>()V
 
@@ -43,7 +43,7 @@
     .prologue
     const/4 v2, 0x0
 
-    .line 194
+    .line 311
     sget-object v0, Lcom/sec/android/app/clockpackage/ClockPackage;->tabHost:Landroid/widget/TabHost;
 
     invoke-virtual {v0}, Landroid/widget/TabHost;->getCurrentTab()I
@@ -54,18 +54,18 @@
 
     if-eq v0, v1, :cond_12
 
-    .line 195
+    .line 312
     invoke-static {}, Lcom/sec/android/app/clockpackage/ClockPackage;->access$100()Landroid/widget/HorizontalScrollView;
 
     move-result-object v0
 
     invoke-virtual {v0, v2, v2}, Landroid/widget/HorizontalScrollView;->smoothScrollTo(II)V
 
-    .line 199
+    .line 316
     :goto_11
     return-void
 
-    .line 197
+    .line 314
     :cond_12
     invoke-static {}, Lcom/sec/android/app/clockpackage/ClockPackage;->access$100()Landroid/widget/HorizontalScrollView;
 

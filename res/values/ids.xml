@@ -344,4 +344,5 @@
     <item type="id" name="shortcutMenu2">false</item>
     <item type="id" name="shortcutMenutab1">false</item>
     <item type="id" name="timeralarmTone">false</item>
+    <item type="id" name="hsView">false</item>
 </resources>
