@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dock_setting">
+        <item>Секогаш</item>
+        <item>On the Idle screen</item>
+        <item>Никогаш</item>
+    </string-array>
+    <string-array name="Cities">
+        <item>Мидвеј</item>
+        <item>Хонолулу</item>
+        <item>Хаваи</item>
+        <item>Алјаска</item>
+        <item>Анкориџ</item>
+        <item>Сан Франциско</item>
+        <item>Ванкувер</item>
+        <item>Сиетл</item>
+        <item>Лос Анѓелес</item>
+        <item>Тихуана</item>
+        <item>Калгари</item>
+        <item>Феникс</item>
+        <item>Мацатлан</item>
+        <item>Денвер</item>
+        <item>Мексико Сити</item>
+        <item>Винипег</item>
+        <item>Диего Гарсија</item>
+        <item>Далас</item>
+        <item>Чикаго</item>
+        <item>Торонто</item>
+        <item>Мајами</item>
+        <item>Лима</item>
+        <item>Кито</item>
+        <item>Вашингтон</item>
+        <item>Отава</item>
+        <item>Њујорк</item>
+        <item>Богота</item>
+        <item>Сантјаго</item>
+        <item>Ла Паз</item>
+        <item>Каракас</item>
+        <item>Буенос Аирес</item>
+        <item>Њуфаундленд</item>
+        <item>Сент Џонс</item>
+        <item>Сао Пауло</item>
+        <item>Бразилија</item>
+        <item>Рио де Жанеиро</item>
+        <item>Фернандо де Нороња</item>
+        <item>Среден Атлантик</item>
+        <item>Азури</item>
+        <item>Лисабон</item>
+        <item>Казабланка</item>
+        <item>Даблин</item>
+        <item>Рабат</item>
+        <item>Madrid</item>
+        <item>Сетлмент</item>
+        <item>Лондон</item>
+        <item>Кингстон</item>
+        <item>Барселона</item>
+        <item>Париз</item>
+        <item>Алжир</item>
+        <item>Тунис</item>
+        <item>Триполи</item>
+        <item>Берлин</item>
+        <item>Рим</item>
+        <item>Прага</item>
+        <item>Киншаса</item>
+        <item>Стокхолм</item>
+        <item>Братислава</item>
+        <item>Кејптаун</item>
+        <item>Будимпешта</item>
+        <item>Варшава</item>
+        <item>Калининград</item>
+        <item>Софија</item>
+        <item>Атина</item>
+        <item>Л’вов</item>
+        <item>Хелсинки</item>
+        <item>Рига</item>
+        <item>Талин</item>
+        <item>Букурешт</item>
+        <item>Вилнус</item>
+        <item>Лубумбаши</item>
+        <item>Минск</item>
+        <item>Санкт Петерсбург</item>
+        <item>Истанбул</item>
+        <item>Камчатка</item>
+        <item>Киев</item>
+        <item>Ерусалим</item>
+        <item>Москва</item>
+        <item>Харков</item>
+        <item>Најроби</item>
+        <item>Џеда</item>
+        <item>Волгоград</item>
+        <item>Ереван</item>
+        <item>Тбилиси</item>
+        <item>Баку</item>
+        <item>Чита</item>
+        <item>Самара</item>
+        <item>Техеран</item>
+        <item>Ижевск</item>
+        <item>Абу Даби</item>
+        <item>Дубај</item>
+        <item>Уфа</item>
+        <item>Екатеринбург</item>
+        <item>Чељабинск</item>
+        <item>Карачи</item>
+        <item>Кабул</item>
+        <item>Ташкент</item>
+        <item>Исламабад</item>
+        <item>Бомбај</item>
+        <item>Омск</item>
+        <item>Алма Ата</item>
+        <item>Бангалор</item>
+        <item>Хидерабад</item>
+        <item>Делхи</item>
+        <item>Коломбо</item>
+        <item>Ченај</item>
+        <item>Новосибирск</item>
+        <item>Катманду</item>
+        <item>Новокузњецк</item>
+        <item>Калкута</item>
+        <item>Дака</item>
+        <item>Ховд</item>
+        <item>Краснојарск</item>
+        <item>Банкок</item>
+        <item>Куала Лумпур</item>
+        <item>Сингапур</item>
+        <item>Иркутск</item>
+        <item>Пном Пен</item>
+        <item>Ханој</item>
+        <item>Џакарта</item>
+        <item>Улан Батор</item>
+        <item>Хонгконг</item>
+        <item>Перт</item>
+        <item>Пекинг</item>
+        <item>Манила</item>
+        <item>Тајпеј</item>
+        <item>Сеул</item>
+        <item>Амбон</item>
+        <item>Владивосток</item>
+        <item>Јакутск</item>
+        <item>Хабаровск</item>
+        <item>Аделаида</item>
+        <item>Tokyo</item>
+        <item>Јужно Сахалинск</item>
+        <item>Халифакс</item>
+        <item>Гвам</item>
+        <item>Канбера</item>
+        <item>Магадан</item>
+        <item>Сиднеј</item>
+        <item>Петропавловск</item>
+        <item>Тарава</item>
+        <item>Окленд</item>
+        <item>Велингтон</item>
+        <item>Паго Паго</item>
+        <item>Денпасар</item>
+        <item>Берн</item>
+        <item>Цирих</item>
+        <item>Каиро</item>
+        <item>Абиџан</item>
+        <item>Акра</item>
+        <item>Адис Абеба</item>
+        <item>Аман</item>
+        <item>Амстердам</item>
+        <item>Анадир</item>
+        <item>Анкара</item>
+        <item>Антананариво</item>
+        <item>Ашкабат</item>
+        <item>Асмара</item>
+        <item>Астана</item>
+        <item>Асунсион</item>
+        <item>Остин</item>
+        <item>Багдад</item>
+        <item>Балтимор</item>
+        <item>Бамако</item>
+        <item>Банги</item>
+        <item>Бари</item>
+        <item>Бастер</item>
+        <item>Бејрут</item>
+        <item>Белград</item>
+        <item>Белизе Сити</item>
+        <item>Бишкек</item>
+        <item>Бисао</item>
+        <item>Болоња</item>
+        <item>Бостон</item>
+        <item>Бриџтаун</item>
+        <item>Бризбејн</item>
+        <item>Брисел</item>
+        <item>Канарски Острови</item>
+        <item>Катанѕаро</item>
+        <item>Кејен</item>
+        <item>Шарлот</item>
+        <item>Кишинев</item>
+        <item>Кливленд</item>
+        <item>Коламбас</item>
+        <item>Конакри</item>
+        <item>Копенхаген</item>
+        <item>Корк</item>
+        <item>Кротоне</item>
+        <item>Дакар</item>
+        <item>Дамаск</item>
+        <item>Дар ес Салам</item>
+        <item>Дарвин</item>
+        <item>Детроит</item>
+        <item>Џибути</item>
+        <item>Доха</item>
+        <item>Дуала</item>
+        <item>Душанбе</item>
+        <item>Велигденски острови</item>
+        <item>Единбург</item>
+        <item>Ел Пасо</item>
+        <item>Фиренца</item>
+        <item>Форт д Франс</item>
+        <item>Фритаун</item>
+        <item>Габеронес</item>
+        <item>Галапагоски острови</item>
+        <item>Женева</item>
+        <item>Ѓенова</item>
+        <item>Џорџтаун</item>
+        <item>Гритвикен</item>
+        <item>Гватемала Сити</item>
+        <item>Густавија</item>
+        <item>Хамбург</item>
+        <item>Хараре</item>
+        <item>Хавана</item>
+        <item>Хобарт</item>
+        <item>Хјустон</item>
+        <item>Индијанаполис</item>
+        <item>Јоханесбург</item>
+        <item>Кампала</item>
+        <item>Картум</item>
+        <item>Кингстон</item>
+        <item>Кувајт</item>
+        <item>Лагос</item>
+        <item>Лас Вегас</item>
+        <item>Љубљана</item>
+        <item>Хајку</item>
+        <item>Луизвил</item>
+        <item>Луанда</item>
+        <item>Лусака</item>
+        <item>Луксембург</item>
+        <item>Макао</item>
+        <item>Малабо</item>
+        <item>Мале</item>
+        <item>Манагва</item>
+        <item>Манама</item>
+        <item>Мапуто</item>
+        <item>Маригот</item>
+        <item>Мека</item>
+        <item>Мелбурн</item>
+        <item>Мемфис</item>
+        <item>Месина</item>
+        <item>Милано</item>
+        <item>Милвоки</item>
+        <item>Могадиш</item>
+        <item>Монровија</item>
+        <item>Монтевидео</item>
+        <item>Монтреал</item>
+        <item>Минхен</item>
+        <item>Мускат</item>
+        <item>Неапол</item>
+        <item>Натерс</item>
+        <item>Нџамена</item>
+        <item>Ниамеј</item>
+        <item>Нуакчот</item>
+        <item>Нумеја</item>
+        <item>Нукуалофа</item>
+        <item>Нук</item>
+        <item>Осака</item>
+        <item>Уагадугу</item>
+        <item>Палермо</item>
+        <item>Панама Сити</item>
+        <item>Парамарибо</item>
+        <item>Перм</item>
+        <item>Филаделфија</item>
+        <item>Подгорица</item>
+        <item>Понта Делгада</item>
+        <item>Порт Луи</item>
+        <item>Портопренс</item>
+        <item>Портланд</item>
+        <item>Пјонгјанг</item>
+        <item>Јангон</item>
+        <item>Ресифе</item>
+        <item>Рејкјавик</item>
+        <item>Ријад</item>
+        <item>Сен Дени</item>
+        <item>Сан Антонио</item>
+        <item>Сан Диего</item>
+        <item>Сан Хозе</item>
+        <item>Сан Хозе</item>
+        <item>Сан Хуан</item>
+        <item>Сан Марино</item>
+        <item>Сан Салвадор</item>
+        <item>Сана</item>
+        <item>Санто Доминго</item>
+        <item>Шангај</item>
+        <item>Шенжен</item>
+        <item>Скопје</item>
+        <item>Сент Џонс</item>
+        <item>Сува</item>
+        <item>Тахити</item>
+        <item>Тегусигалпа</item>
+        <item>Хо Ши Мин Сити</item>
+        <item>Тијанџин</item>
+        <item>Торино</item>
+        <item>Вадуз</item>
+        <item>Валета</item>
+        <item>Верона</item>
+        <item>Викторија</item>
+        <item>Виена</item>
+        <item>Јамусукро</item>
+        <item>Јаунде</item>
+        <item>Загреб</item>
+        <item>Гуангжу</item>
+        <item>Кардиф</item>
+        <item>Регина</item>
+        <item>Шарлот Амали</item>
+        <item>Атланта</item>
+    </string-array>
+    <string-array name="MappingTables">
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>15</item>
+        <item>71</item>
+        <item>71</item>
+        <item>42</item>
+        <item>15</item>
+        <item>71</item>
+        <item>42</item>
+        <item>71</item>
+        <item>42</item>
+        <item>15</item>
+        <item>69</item>
+        <item>71</item>
+        <item>71</item>
+        <item>15</item>
+        <item>71</item>
+        <item>48</item>
+        <item>21</item>
+        <item>71</item>
+        <item>15</item>
+        <item>71</item>
+        <item>18</item>
+        <item>16</item>
+        <item>11</item>
+        <item>73</item>
+        <item>4</item>
+        <item>15</item>
+        <item>3</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>71</item>
+        <item>51</item>
+        <item>51</item>
+        <item>44</item>
+        <item>32</item>
+        <item>44</item>
+        <item>61</item>
+        <item>75</item>
+        <item>69</item>
+        <item>15</item>
+        <item>61</item>
+        <item>24</item>
+        <item>1</item>
+        <item>66</item>
+        <item>55</item>
+        <item>26</item>
+        <item>34</item>
+        <item>19</item>
+        <item>20</item>
+        <item>63</item>
+        <item>59</item>
+        <item>60</item>
+        <item>28</item>
+        <item>50</item>
+        <item>57</item>
+        <item>13</item>
+        <item>27</item>
+        <item>70</item>
+        <item>23</item>
+        <item>39</item>
+        <item>22</item>
+        <item>56</item>
+        <item>40</item>
+        <item>20</item>
+        <item>10</item>
+        <item>57</item>
+        <item>67</item>
+        <item>57</item>
+        <item>70</item>
+        <item>33</item>
+        <item>57</item>
+        <item>70</item>
+        <item>37</item>
+        <item>58</item>
+        <item>57</item>
+        <item>5</item>
+        <item>25</item>
+        <item>7</item>
+        <item>57</item>
+        <item>57</item>
+        <item>31</item>
+        <item>57</item>
+        <item>68</item>
+        <item>68</item>
+        <item>9</item>
+        <item>57</item>
+        <item>57</item>
+        <item>47</item>
+        <item>0</item>
+        <item>72</item>
+        <item>47</item>
+        <item>29</item>
+        <item>57</item>
+        <item>36</item>
+        <item>29</item>
+        <item>29</item>
+        <item>29</item>
+        <item>62</item>
+        <item>29</item>
+        <item>57</item>
+        <item>45</item>
+        <item>57</item>
+        <item>29</item>
+        <item>8</item>
+        <item>43</item>
+        <item>57</item>
+        <item>65</item>
+        <item>41</item>
+        <item>54</item>
+        <item>57</item>
+        <item>14</item>
+        <item>74</item>
+        <item>30</item>
+        <item>43</item>
+        <item>17</item>
+        <item>6</item>
+        <item>17</item>
+        <item>49</item>
+        <item>64</item>
+        <item>53</item>
+        <item>30</item>
+        <item>57</item>
+        <item>57</item>
+        <item>57</item>
+        <item>6</item>
+        <item>35</item>
+        <item>57</item>
+        <item>15</item>
+        <item>71</item>
+        <item>6</item>
+        <item>57</item>
+        <item>6</item>
+        <item>57</item>
+        <item>38</item>
+        <item>46</item>
+        <item>46</item>
+        <item>2</item>
+        <item>30</item>
+        <item>76</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>57</item>
+        <item>67</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>36</item>
+        <item>86</item>
+        <item>71</item>
+        <item>87</item>
+        <item>71</item>
+        <item>88</item>
+        <item>89</item>
+        <item>34</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>34</item>
+        <item>71</item>
+        <item>96</item>
+        <item>6</item>
+        <item>97</item>
+        <item>61</item>
+        <item>34</item>
+        <item>98</item>
+        <item>71</item>
+        <item>99</item>
+        <item>71</item>
+        <item>71</item>
+        <item>100</item>
+        <item>101</item>
+        <item>32</item>
+        <item>34</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>6</item>
+        <item>71</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>16</item>
+        <item>109</item>
+        <item>71</item>
+        <item>34</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>21</item>
+        <item>76</item>
+        <item>34</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>26</item>
+        <item>117</item>
+        <item>118</item>
+        <item>6</item>
+        <item>71</item>
+        <item>71</item>
+        <item>60</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>71</item>
+        <item>169</item>
+        <item>17</item>
+        <item>71</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>17</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>58</item>
+        <item>6</item>
+        <item>71</item>
+        <item>34</item>
+        <item>34</item>
+        <item>71</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>15</item>
+        <item>26</item>
+        <item>136</item>
+        <item>34</item>
+        <item>76</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>35</item>
+        <item>143</item>
+        <item>34</item>
+        <item>144</item>
+        <item>145</item>
+        <item>57</item>
+        <item>71</item>
+        <item>146</item>
+        <item>51</item>
+        <item>147</item>
+        <item>148</item>
+        <item>71</item>
+        <item>149</item>
+        <item>150</item>
+        <item>12</item>
+        <item>151</item>
+        <item>58</item>
+        <item>152</item>
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>153</item>
+        <item>154</item>
+        <item>170</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+        <item>17</item>
+        <item>17</item>
+        <item>158</item>
+        <item>15</item>
+        <item>159</item>
+        <item>160</item>
+        <item>161</item>
+        <item>74</item>
+        <item>17</item>
+        <item>34</item>
+        <item>162</item>
+        <item>163</item>
+        <item>34</item>
+        <item>164</item>
+        <item>165</item>
+        <item>78</item>
+        <item>107</item>
+        <item>166</item>
+        <item>17</item>
+        <item>167</item>
+        <item>15</item>
+        <item>168</item>
+        <item>71</item>
+    </string-array>
+    <string-array name="Countries">
+        <item>Авганистан</item>
+        <item>Алжир</item>
+        <item>Американска Самоа</item>
+        <item>Антигва и Барбуда</item>
+        <item>Аргентина</item>
+        <item>Арменија</item>
+        <item>Австралија</item>
+        <item>Азербејџан</item>
+        <item>Бангладеш</item>
+        <item>Република Башкортостан</item>
+        <item>Белорусија</item>
+        <item>Боливија</item>
+        <item>Бразил</item>
+        <item>Бугарија</item>
+        <item>Камбоџа</item>
+        <item>Канада</item>
+        <item>Чиле</item>
+        <item>Кина</item>
+        <item>Колумбија</item>
+        <item>Чешки</item>
+        <item>ДР Конго</item>
+        <item>Еквадор</item>
+        <item>Естонија</item>
+        <item>Финска</item>
+        <item>Франција</item>
+        <item>Џорџија</item>
+        <item>Германија</item>
+        <item>Грција</item>
+        <item>Унгарија</item>
+        <item>Индија</item>
+        <item>Индонезија</item>
+        <item>Иран</item>
+        <item>Ирска</item>
+        <item>Израел</item>
+        <item>Italy</item>
+        <item>Јапонија</item>
+        <item>Казахстан</item>
+        <item>Кенија</item>
+        <item>Кирибати</item>
+        <item>Летонија</item>
+        <item>Литванија</item>
+        <item>Малезија</item>
+        <item>Мексико</item>
+        <item>Монголија</item>
+        <item>Мароко</item>
+        <item>Непал</item>
+        <item>Нов Зеланд</item>
+        <item>Пакистан</item>
+        <item>Перу</item>
+        <item>Филипини</item>
+        <item>Полска</item>
+        <item>Portugal</item>
+        <item>Мапа</item>
+        <item>Република Кореја</item>
+        <item>Република Сингапур</item>
+        <item>Либија</item>
+        <item>Романија</item>
+        <item>Русија</item>
+        <item>Саудиска Арабија</item>
+        <item>Словачка</item>
+        <item>Јужна Африка</item>
+        <item>Шпанија</item>
+        <item>Шри Ланка</item>
+        <item>Шведска</item>
+        <item>Тајван</item>
+        <item>Тајланд</item>
+        <item>Тунис</item>
+        <item>Турција</item>
+        <item>ОАЕ</item>
+        <item>Велика Британија</item>
+        <item>Украина</item>
+        <item>САД</item>
+        <item>Узбекистан</item>
+        <item>Венецуела</item>
+        <item>Виетнам</item>
+        <item>Брит. Дев. О.</item>
+        <item>Швајцарија</item>
+        <item>Египет</item>
+        <item>Брег на Слоновата Коска</item>
+        <item>Гана</item>
+        <item>Етиопија</item>
+        <item>Јордан</item>
+        <item>Холандија</item>
+        <item>Мадагаскар</item>
+        <item>Туркменистан</item>
+        <item>Еритреја</item>
+        <item>Парагвај</item>
+        <item>Ирак</item>
+        <item>Мали</item>
+        <item>Централно-африканска Република</item>
+        <item>Гвадалупе</item>
+        <item>Либан</item>
+        <item>Србија</item>
+        <item>Белизе</item>
+        <item>Киргистан</item>
+        <item>Гвинеја Бисао</item>
+        <item>Барбадос</item>
+        <item>Белгија</item>
+        <item>Француска Гвајана</item>
+        <item>Молдавија</item>
+        <item>Гвинеја</item>
+        <item>Данска</item>
+        <item>Сенегал</item>
+        <item>Сирија</item>
+        <item>Танзанија</item>
+        <item>Џибути</item>
+        <item>Катар</item>
+        <item>Камерун</item>
+        <item>Таџикистан</item>
+        <item>Шкотска</item>
+        <item>Мартиник</item>
+        <item>Сиера Леоне</item>
+        <item>Боцвана</item>
+        <item>Гвајана</item>
+        <item>Јужна Џорџија</item>
+        <item>Гватемала</item>
+        <item>Сен Бертелеми</item>
+        <item>Зимбабве</item>
+        <item>Куба</item>
+        <item>Уганда</item>
+        <item>Судан</item>
+        <item>Јамајка</item>
+        <item>Кувајт</item>
+        <item>Нигерија</item>
+        <item>Ангола</item>
+        <item>Замбија</item>
+        <item>Луксембург</item>
+        <item>Екваторијална Гвинеја</item>
+        <item>Малдиви</item>
+        <item>Никарагва</item>
+        <item>Бахрејн</item>
+        <item>Мозамбик</item>
+        <item>Сан Мартин</item>
+        <item>Сомалија</item>
+        <item>Либерија</item>
+        <item>Уругвај</item>
+        <item>Оман</item>
+        <item>Чад</item>
+        <item>Нигер</item>
+        <item>Мавританија</item>
+        <item>Нова Каледонија</item>
+        <item>Тонга</item>
+        <item>Гренланд</item>
+        <item>Буркина Фасо</item>
+        <item>Панама</item>
+        <item>Суринам</item>
+        <item>Црна Гора</item>
+        <item>Маврициус</item>
+        <item>Хаити</item>
+        <item>Северна Кореја</item>
+        <item>Мијанмар</item>
+        <item>Исланд</item>
+        <item>Остров Рејунион</item>
+        <item>Костарика</item>
+        <item>Порторико</item>
+        <item>Ел Салвадор</item>
+        <item>Јемен</item>
+        <item>Доминиканска република</item>
+        <item>Македонија</item>
+        <item>Фиџи</item>
+        <item>Француска Полинезија</item>
+        <item>Хондурас</item>
+        <item>Лихтенштајн</item>
+        <item>Малта</item>
+        <item>Сејшелски острови</item>
+        <item>Австрија</item>
+        <item>Хрватска</item>
+        <item>Велс</item>
+        <item>Дев.О.САД</item>
+        <item>Словенија</item>
+        <item>Сан Марино</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Алармот е поставен за помалку од 1 минута отсега</item>
+        <item>Алармот е поставен за %1$s од сега</item>
+        <item>Алармот е поставен за %2$s од сега</item>
+        <item>Алармот е поставен за %1$s и %2$s од сега</item>
+        <item>Алармот е поставен за %3$s од сега</item>
+        <item>Алармот е поставен за %1$s и %3$s од сега</item>
+        <item>Алармот е поставен за %2$s и %3$s од сега</item>
+        <item>Алармот е поставен за %1$s, %2$s и %3$s од сега</item>
+    </string-array>
+    <string-array name="alarm_tone">
+        <item>Звуци</item>
+        <item>Оди во Мои фајлови</item>
+    </string-array>
+    <string-array name="alarm_type">
+        <item>Мелодија</item>
+        <item>Вибрации</item>
+        <item>Вибрации и мелодија</item>
+        <item>Рапорт</item>
+    </string-array>
+    <string-array name="wc_menu_popup_set">
+        <item>Избриши</item>
+        <item>Опции за летно време</item>
+    </string-array>
+    <string-array name="wc_menu_dst_set">
+        <item>Автоматски</item>
+        <item>Исклучено</item>
+        <item>1 час</item>
+        <item>2-часа</item>
+    </string-array>
+    <string-array name="arr_indexlist_clock">
+        <item>+13</item>
+        <item>+12</item>
+        <item>+11</item>
+        <item>+10</item>
+        <item>+9</item>
+        <item>+8</item>
+        <item>+7</item>
+        <item>+6</item>
+        <item>+5</item>
+        <item>+4</item>
+        <item>+3</item>
+        <item>+2</item>
+        <item>+1</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+        <item>-4</item>
+        <item>-5</item>
+        <item>-6</item>
+        <item>-7</item>
+        <item>-8</item>
+        <item>-9</item>
+        <item>-10</item>
+        <item>-11</item>
+    </string-array>
+    <string-array name="timezonebar">
+        <item>-11</item>
+        <item>-10</item>
+        <item>-9</item>
+        <item>-8</item>
+        <item>-7</item>
+        <item>-6</item>
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+        <item>+4</item>
+        <item>+5</item>
+        <item>+6</item>
+        <item>+7</item>
+        <item>+8</item>
+        <item>+9</item>
+        <item>+10</item>
+        <item>+11</item>
+        <item>+12</item>
+        <item>+13</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Исклучено</item>
+        <item>По 5 мин.</item>
+        <item>Отказ</item>
+        <item>Тишина</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

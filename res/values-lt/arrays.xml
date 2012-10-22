@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dock_setting">
+        <item>Visada</item>
+        <item>On the Idle screen</item>
+        <item>Niekada</item>
+    </string-array>
+    <string-array name="Cities">
+        <item>Midvėjus</item>
+        <item>Honolulu</item>
+        <item>Havajai</item>
+        <item>Aliaska</item>
+        <item>Ankoridžas</item>
+        <item>San Fransiskas</item>
+        <item>Vankuveris</item>
+        <item>Sietlas</item>
+        <item>Los Andželas</item>
+        <item>Tichuana</item>
+        <item>Kalgaris</item>
+        <item>Finiksas</item>
+        <item>Mazatlanas</item>
+        <item>Denveris</item>
+        <item>Mechikas</item>
+        <item>Vinipegas</item>
+        <item>Diego Garsija</item>
+        <item>Dalasas</item>
+        <item>Čikaga</item>
+        <item>Torontas</item>
+        <item>Majamis</item>
+        <item>Lima</item>
+        <item>Kitas</item>
+        <item>Vašingtonas</item>
+        <item>Otava</item>
+        <item>Niujorkas</item>
+        <item>Bogota</item>
+        <item>Santjagas</item>
+        <item>La Pasas</item>
+        <item>Karakasas</item>
+        <item>Buenos Airės</item>
+        <item>Niufaundlendas</item>
+        <item>Sent Džonsas</item>
+        <item>San Paulas</item>
+        <item>Brazilija</item>
+        <item>Rio de Žaneiras</item>
+        <item>Fernando de Noronija</item>
+        <item>Vidurio Atlantas</item>
+        <item>Azorų salos</item>
+        <item>Lisabona</item>
+        <item>Kasablanka</item>
+        <item>Dublinas</item>
+        <item>Rabatas</item>
+        <item>Madridas</item>
+        <item>Setlmentas</item>
+        <item>Londonas</item>
+        <item>Kingstonas</item>
+        <item>Barselona</item>
+        <item>Paryžius</item>
+        <item>Alžyras</item>
+        <item>Tunisas</item>
+        <item>Tripolis</item>
+        <item>Berlynas</item>
+        <item>Roma</item>
+        <item>Praha</item>
+        <item>Kinšasa</item>
+        <item>Stokholmas</item>
+        <item>Bratislava</item>
+        <item>Keiptaunas</item>
+        <item>Budapeštas</item>
+        <item>Varšuva</item>
+        <item>Kaliningradas</item>
+        <item>Sofija</item>
+        <item>Atėnai</item>
+        <item>Lvovas</item>
+        <item>Helsinkis</item>
+        <item>Ryga</item>
+        <item>Talinas</item>
+        <item>Bukareštas</item>
+        <item>Vilnius</item>
+        <item>Lubumbašis</item>
+        <item>Minskas</item>
+        <item>Sankt Peterburgas</item>
+        <item>Stambulas</item>
+        <item>Kamčiatka</item>
+        <item>Kijevas</item>
+        <item>Jeruzalė</item>
+        <item>Maskva</item>
+        <item>Charkovas</item>
+        <item>Nairobis</item>
+        <item>Džida</item>
+        <item>Volgogradas</item>
+        <item>Jerevanas</item>
+        <item>Tbilisis</item>
+        <item>Baku</item>
+        <item>Čita</item>
+        <item>Samara</item>
+        <item>Teheranas</item>
+        <item>Iževskas</item>
+        <item>Abu Dabis</item>
+        <item>Dubajus</item>
+        <item>Ufa</item>
+        <item>Jakaterinburgas</item>
+        <item>Čeljabinskas</item>
+        <item>Karačis</item>
+        <item>Kabulas</item>
+        <item>Taškentas</item>
+        <item>Islamabadas</item>
+        <item>Mumbajus</item>
+        <item>Omskas</item>
+        <item>Alma Ata</item>
+        <item>Bengalūras</item>
+        <item>Hyderabad</item>
+        <item>Delis</item>
+        <item>Kolombas</item>
+        <item>Čenajus</item>
+        <item>Novosibirskas</item>
+        <item>Katmandu</item>
+        <item>Novokuzneckas</item>
+        <item>Kalkuta</item>
+        <item>Daka</item>
+        <item>Hovdas</item>
+        <item>Krasnojarskas</item>
+        <item>Bankokas</item>
+        <item>Kvala Lumpūras</item>
+        <item>Singapūras</item>
+        <item>Irkutskas</item>
+        <item>Pnompenis</item>
+        <item>Hanoi</item>
+        <item>Džakarta</item>
+        <item>Ulan Batoras</item>
+        <item>Honkongas</item>
+        <item>Pertas</item>
+        <item>Pekinas</item>
+        <item>Manila</item>
+        <item>Taipėjus</item>
+        <item>Seulas</item>
+        <item>Ambonas</item>
+        <item>Vladivostokas</item>
+        <item>Jakutskas</item>
+        <item>Chabarovskas</item>
+        <item>Adelaidė</item>
+        <item>Tokijas</item>
+        <item>Južno Sachalinskas</item>
+        <item>Halifaksas</item>
+        <item>Gvamas</item>
+        <item>Kanbera</item>
+        <item>Magadanas</item>
+        <item>Sidnėjus</item>
+        <item>Petropavlovskas</item>
+        <item>Tarava</item>
+        <item>Oklandas</item>
+        <item>Velingtonas</item>
+        <item>Pago Pagas</item>
+        <item>Denpasaras</item>
+        <item>Bernas</item>
+        <item>Ciurichas</item>
+        <item>Kairas</item>
+        <item>Abidžanas</item>
+        <item>Akra</item>
+        <item>Adis Ababas</item>
+        <item>Amanas</item>
+        <item>Amsterdamas</item>
+        <item>Anadyris</item>
+        <item>Ankara</item>
+        <item>Antananarivas</item>
+        <item>Ašgabatas</item>
+        <item>Asmara</item>
+        <item>Astana</item>
+        <item>Asunsjonas</item>
+        <item>Ostinas</item>
+        <item>Bagdadas</item>
+        <item>Baltimorė</item>
+        <item>Bamakas</item>
+        <item>Bangis</item>
+        <item>Baris</item>
+        <item>Basteras</item>
+        <item>Beirutas</item>
+        <item>Belgradas</item>
+        <item>Belizas</item>
+        <item>Biškekas</item>
+        <item>Bisau</item>
+        <item>Bolonija</item>
+        <item>Bostonas</item>
+        <item>Bridžtaunas</item>
+        <item>Brisbenas</item>
+        <item>Briuselis</item>
+        <item>Kanarų salos</item>
+        <item>Katandzaras</item>
+        <item>Kajenas</item>
+        <item>Šarlotė</item>
+        <item>Čisinau</item>
+        <item>Klivelandas</item>
+        <item>Kolumbas</item>
+        <item>Konakris</item>
+        <item>Kopenhaga</item>
+        <item>Korkas</item>
+        <item>Krotonė</item>
+        <item>Dakaras</item>
+        <item>Damaskas</item>
+        <item>Dar es Salamas</item>
+        <item>Darvinas</item>
+        <item>Detroitas</item>
+        <item>Džibutis</item>
+        <item>Doha</item>
+        <item>Duala</item>
+        <item>Dušanbė</item>
+        <item>Velykų Sala</item>
+        <item>Edinburgas</item>
+        <item>El Pasas</item>
+        <item>Florencija</item>
+        <item>For de Fransas</item>
+        <item>Fritaunas</item>
+        <item>Gaboronas</item>
+        <item>Galapagų salos</item>
+        <item>Ženeva</item>
+        <item>Genua</item>
+        <item>Džordžtaunas</item>
+        <item>Griutvikenas</item>
+        <item>Gvatemalos miestas</item>
+        <item>Gustavija</item>
+        <item>Hamburgas</item>
+        <item>Hararė</item>
+        <item>Havana</item>
+        <item>Hobartas</item>
+        <item>Hiūstonas</item>
+        <item>Indianapolis</item>
+        <item>Johanesburgas</item>
+        <item>Kampala</item>
+        <item>Chartumas</item>
+        <item>Kingstonas</item>
+        <item>Kuveitas</item>
+        <item>Lagosas</item>
+        <item>Las Vegasas</item>
+        <item>Liubliana</item>
+        <item>Haikou</item>
+        <item>Luisvilis</item>
+        <item>Luanda</item>
+        <item>Lusaka</item>
+        <item>Liuksemburgas</item>
+        <item>Makau</item>
+        <item>Malabas</item>
+        <item>Malė</item>
+        <item>Managva</item>
+        <item>Manama</item>
+        <item>Maputo</item>
+        <item>Marigo</item>
+        <item>Meka</item>
+        <item>Melburnas</item>
+        <item>Memfis</item>
+        <item>Mesina</item>
+        <item>Milanas</item>
+        <item>Milvokis</item>
+        <item>Mogadišas</item>
+        <item>Monrovia</item>
+        <item>Montevidėjas</item>
+        <item>Monrealis</item>
+        <item>Miunchenas</item>
+        <item>Muskatas</item>
+        <item>Neapolis</item>
+        <item>Nateras</item>
+        <item>Ndžamena</item>
+        <item>Niamėjus</item>
+        <item>Nuakšotas</item>
+        <item>Numė</item>
+        <item>Nukualofa</item>
+        <item>Nukas</item>
+        <item>Osaka</item>
+        <item>Uagadugu</item>
+        <item>Palermas</item>
+        <item>Panamos miestas</item>
+        <item>Paramaribas</item>
+        <item>Permė</item>
+        <item>Filadelfija</item>
+        <item>Podgorica</item>
+        <item>Ponta Delgada</item>
+        <item>Port Luisas</item>
+        <item>Port o Prensas</item>
+        <item>Portlandas</item>
+        <item>Pchenjanas</item>
+        <item>Rangūnas</item>
+        <item>Recife</item>
+        <item>Reikjavikas</item>
+        <item>Rijadas</item>
+        <item>Sen Deni</item>
+        <item>San Antonijus</item>
+        <item>San Diege</item>
+        <item>San Chosė</item>
+        <item>San Chosė</item>
+        <item>San Chuanas</item>
+        <item>San Marinas</item>
+        <item>San Salvadoras</item>
+        <item>"Sana'a"</item>
+        <item>Santo Domingas</item>
+        <item>Šanchajus</item>
+        <item>Šenzenas</item>
+        <item>Skopjė</item>
+        <item>Sent Džonsas</item>
+        <item>Suva</item>
+        <item>Taitis</item>
+        <item>Tegusigalpa</item>
+        <item>Hošiminas</item>
+        <item>Tiandzinas</item>
+        <item>Turinas</item>
+        <item>Vaducas</item>
+        <item>Valeta</item>
+        <item>Verona</item>
+        <item>Viktorija</item>
+        <item>Viena</item>
+        <item>Jamusukras</item>
+        <item>Jaundė</item>
+        <item>Zagrebas</item>
+        <item>Guangdžou</item>
+        <item>Kardifas</item>
+        <item>Redžaina</item>
+        <item>Šarlotė Amalija</item>
+        <item>Atlanta</item>
+    </string-array>
+    <string-array name="MappingTables">
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>15</item>
+        <item>71</item>
+        <item>71</item>
+        <item>42</item>
+        <item>15</item>
+        <item>71</item>
+        <item>42</item>
+        <item>71</item>
+        <item>42</item>
+        <item>15</item>
+        <item>69</item>
+        <item>71</item>
+        <item>71</item>
+        <item>15</item>
+        <item>71</item>
+        <item>48</item>
+        <item>21</item>
+        <item>71</item>
+        <item>15</item>
+        <item>71</item>
+        <item>18</item>
+        <item>16</item>
+        <item>11</item>
+        <item>73</item>
+        <item>4</item>
+        <item>15</item>
+        <item>3</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>71</item>
+        <item>51</item>
+        <item>51</item>
+        <item>44</item>
+        <item>32</item>
+        <item>44</item>
+        <item>61</item>
+        <item>75</item>
+        <item>69</item>
+        <item>15</item>
+        <item>61</item>
+        <item>24</item>
+        <item>1</item>
+        <item>66</item>
+        <item>55</item>
+        <item>26</item>
+        <item>34</item>
+        <item>19</item>
+        <item>20</item>
+        <item>63</item>
+        <item>59</item>
+        <item>60</item>
+        <item>28</item>
+        <item>50</item>
+        <item>57</item>
+        <item>13</item>
+        <item>27</item>
+        <item>70</item>
+        <item>23</item>
+        <item>39</item>
+        <item>22</item>
+        <item>56</item>
+        <item>40</item>
+        <item>20</item>
+        <item>10</item>
+        <item>57</item>
+        <item>67</item>
+        <item>57</item>
+        <item>70</item>
+        <item>33</item>
+        <item>57</item>
+        <item>70</item>
+        <item>37</item>
+        <item>58</item>
+        <item>57</item>
+        <item>5</item>
+        <item>25</item>
+        <item>7</item>
+        <item>57</item>
+        <item>57</item>
+        <item>31</item>
+        <item>57</item>
+        <item>68</item>
+        <item>68</item>
+        <item>9</item>
+        <item>57</item>
+        <item>57</item>
+        <item>47</item>
+        <item>0</item>
+        <item>72</item>
+        <item>47</item>
+        <item>29</item>
+        <item>57</item>
+        <item>36</item>
+        <item>29</item>
+        <item>29</item>
+        <item>29</item>
+        <item>62</item>
+        <item>29</item>
+        <item>57</item>
+        <item>45</item>
+        <item>57</item>
+        <item>29</item>
+        <item>8</item>
+        <item>43</item>
+        <item>57</item>
+        <item>65</item>
+        <item>41</item>
+        <item>54</item>
+        <item>57</item>
+        <item>14</item>
+        <item>74</item>
+        <item>30</item>
+        <item>43</item>
+        <item>17</item>
+        <item>6</item>
+        <item>17</item>
+        <item>49</item>
+        <item>64</item>
+        <item>53</item>
+        <item>30</item>
+        <item>57</item>
+        <item>57</item>
+        <item>57</item>
+        <item>6</item>
+        <item>35</item>
+        <item>57</item>
+        <item>15</item>
+        <item>71</item>
+        <item>6</item>
+        <item>57</item>
+        <item>6</item>
+        <item>57</item>
+        <item>38</item>
+        <item>46</item>
+        <item>46</item>
+        <item>2</item>
+        <item>30</item>
+        <item>76</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>57</item>
+        <item>67</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>36</item>
+        <item>86</item>
+        <item>71</item>
+        <item>87</item>
+        <item>71</item>
+        <item>88</item>
+        <item>89</item>
+        <item>34</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>34</item>
+        <item>71</item>
+        <item>96</item>
+        <item>6</item>
+        <item>97</item>
+        <item>61</item>
+        <item>34</item>
+        <item>98</item>
+        <item>71</item>
+        <item>99</item>
+        <item>71</item>
+        <item>71</item>
+        <item>100</item>
+        <item>101</item>
+        <item>32</item>
+        <item>34</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>6</item>
+        <item>71</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>16</item>
+        <item>109</item>
+        <item>71</item>
+        <item>34</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>21</item>
+        <item>76</item>
+        <item>34</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>26</item>
+        <item>117</item>
+        <item>118</item>
+        <item>6</item>
+        <item>71</item>
+        <item>71</item>
+        <item>60</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>71</item>
+        <item>169</item>
+        <item>17</item>
+        <item>71</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>17</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>58</item>
+        <item>6</item>
+        <item>71</item>
+        <item>34</item>
+        <item>34</item>
+        <item>71</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>15</item>
+        <item>26</item>
+        <item>136</item>
+        <item>34</item>
+        <item>76</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>35</item>
+        <item>143</item>
+        <item>34</item>
+        <item>144</item>
+        <item>145</item>
+        <item>57</item>
+        <item>71</item>
+        <item>146</item>
+        <item>51</item>
+        <item>147</item>
+        <item>148</item>
+        <item>71</item>
+        <item>149</item>
+        <item>150</item>
+        <item>12</item>
+        <item>151</item>
+        <item>58</item>
+        <item>152</item>
+        <item>71</item>
+        <item>71</item>
+        <item>71</item>
+        <item>153</item>
+        <item>154</item>
+        <item>170</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+        <item>17</item>
+        <item>17</item>
+        <item>158</item>
+        <item>15</item>
+        <item>159</item>
+        <item>160</item>
+        <item>161</item>
+        <item>74</item>
+        <item>17</item>
+        <item>34</item>
+        <item>162</item>
+        <item>163</item>
+        <item>34</item>
+        <item>164</item>
+        <item>165</item>
+        <item>78</item>
+        <item>107</item>
+        <item>166</item>
+        <item>17</item>
+        <item>167</item>
+        <item>15</item>
+        <item>168</item>
+        <item>71</item>
+    </string-array>
+    <string-array name="Countries">
+        <item>Afganistanas</item>
+        <item>Alžyras</item>
+        <item>Amerikos Samoa</item>
+        <item>Antigva ir Barbuda</item>
+        <item>Argentina</item>
+        <item>Armėnija</item>
+        <item>Australija</item>
+        <item>Azerbaidžanas</item>
+        <item>Bangladešas</item>
+        <item>Baškortostano Respublika</item>
+        <item>Baltarusija</item>
+        <item>Bolivija</item>
+        <item>Brazilija</item>
+        <item>Bulgarija</item>
+        <item>Kambodža</item>
+        <item>Kanada</item>
+        <item>Čilė</item>
+        <item>Kinija</item>
+        <item>Kolumbija</item>
+        <item>Čekija</item>
+        <item>Demokratinė Kongo Respublika</item>
+        <item>Ekvadoras</item>
+        <item>Estija</item>
+        <item>Suomija</item>
+        <item>Prancūzija</item>
+        <item>Gruzija</item>
+        <item>Vokietija</item>
+        <item>Graikija</item>
+        <item>Vengrija</item>
+        <item>Indija</item>
+        <item>Indonezija</item>
+        <item>IRANAS</item>
+        <item>Airija</item>
+        <item>Izraelis</item>
+        <item>Italija</item>
+        <item>Japonija</item>
+        <item>Kazachstanas</item>
+        <item>Kenija</item>
+        <item>Kiribatis</item>
+        <item>Latvija</item>
+        <item>Lietuva</item>
+        <item>Malaizija</item>
+        <item>Meksika</item>
+        <item>Mongolija</item>
+        <item>Marokas</item>
+        <item>Nepalas</item>
+        <item>Naujoji Zelandija</item>
+        <item>Pakistanas</item>
+        <item>Peru</item>
+        <item>Filipinai</item>
+        <item>Lenkija</item>
+        <item>Portugalija</item>
+        <item>Žemėlapis</item>
+        <item>Korėjos Respublika</item>
+        <item>Singapūro Respublika</item>
+        <item>Libija</item>
+        <item>Rumunija</item>
+        <item>Rusija</item>
+        <item>Saudo Arabija</item>
+        <item>Slovakija</item>
+        <item>Pietų Afrika</item>
+        <item>Ispanija</item>
+        <item>Šri Lanka</item>
+        <item>Švedų</item>
+        <item>Taivanas</item>
+        <item>Tailandas</item>
+        <item>Tunisas</item>
+        <item>Turkija</item>
+        <item>JAE</item>
+        <item>JK</item>
+        <item>Ukraina</item>
+        <item>JAV</item>
+        <item>Uzbekistanas</item>
+        <item>Venesuela</item>
+        <item>Vietnamas</item>
+        <item>Merg. Sal. JK</item>
+        <item>Šveicarija</item>
+        <item>Egiptas</item>
+        <item>Dramblio Kaulo Krantas</item>
+        <item>Gana</item>
+        <item>Etiopija</item>
+        <item>Jordanija</item>
+        <item>Nyderlandai</item>
+        <item>Madagaskaras</item>
+        <item>Turkmėnistanas</item>
+        <item>Eritrėja</item>
+        <item>Paragvajus</item>
+        <item>Irakas</item>
+        <item>Malis</item>
+        <item>Centrinės Afrikos Respublika</item>
+        <item>Gvadelupa</item>
+        <item>Libanas</item>
+        <item>Serbija</item>
+        <item>Belizas</item>
+        <item>Kirgizija</item>
+        <item>Bisau Gvinėja</item>
+        <item>Barbadosas</item>
+        <item>Belgija</item>
+        <item>Prancūzijos Gviana</item>
+        <item>Moldova</item>
+        <item>Gvinėja</item>
+        <item>Danija</item>
+        <item>Senegalas</item>
+        <item>Sirija</item>
+        <item>Tanzanija</item>
+        <item>Džibutis</item>
+        <item>Kataras</item>
+        <item>Kamerūnas</item>
+        <item>Tadžikistanas</item>
+        <item>Škotija</item>
+        <item>Martinika</item>
+        <item>Siera Leonė</item>
+        <item>Botsvana</item>
+        <item>Gajana</item>
+        <item>Pietų Džordžija</item>
+        <item>Gvatemala</item>
+        <item>Šv. Bartolomėjus</item>
+        <item>Zimbabvė</item>
+        <item>Kuba</item>
+        <item>Uganda</item>
+        <item>Sudanas</item>
+        <item>Jamaika</item>
+        <item>Kuveitas</item>
+        <item>Nigerija</item>
+        <item>Angola</item>
+        <item>Zambija</item>
+        <item>Liuksemburgas</item>
+        <item>Pusiaujo Gvinėja</item>
+        <item>Maldyvai</item>
+        <item>Nikaragva</item>
+        <item>Bahreinas</item>
+        <item>Mozambikas</item>
+        <item>San Martenas</item>
+        <item>Somalis</item>
+        <item>Liberija</item>
+        <item>Urugvajus</item>
+        <item>Omanas</item>
+        <item>Čadas</item>
+        <item>Nigeris</item>
+        <item>Mauritanija</item>
+        <item>Naujoji Kaledonija</item>
+        <item>Tonga</item>
+        <item>Grenlandija</item>
+        <item>Burkina Fasas</item>
+        <item>Panama</item>
+        <item>Surinamas</item>
+        <item>Juodkalnija</item>
+        <item>Mauricijus</item>
+        <item>Haitis</item>
+        <item>Šiaurės Korėja</item>
+        <item>Mianmaras</item>
+        <item>Islandija</item>
+        <item>Reunjono Sala</item>
+        <item>Kosta Rika</item>
+        <item>Puerto Rikas</item>
+        <item>Salvadoras</item>
+        <item>Jemenas</item>
+        <item>Dominikos Respublika</item>
+        <item>Makedonija</item>
+        <item>Fidžis</item>
+        <item>Prancūzijos Polinezija</item>
+        <item>Hondūras</item>
+        <item>Lichtenšteinas</item>
+        <item>Malta</item>
+        <item>Seišeliai</item>
+        <item>Austrija</item>
+        <item>Kroatija</item>
+        <item>Velsas</item>
+        <item>JAV Merg.S.</item>
+        <item>Slovėnija</item>
+        <item>San Marinas</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Šis signalas nustatytas skambėti greičiau nei po 1 min. nuo dabar</item>
+        <item>Šis žadintuvas yra nustatytas po %1$s nuo dabar</item>
+        <item>Šis žadintuvas yra nustatytas po %2$s nuo dabar</item>
+        <item>Šis žadintuvas yra nustatytas po %1$s ir %2$s nuo dabar</item>
+        <item>Šis žadintuvas yra nustatytas po %3$s nuo dabar</item>
+        <item>Šis žadintuvas yra nustatytas po %1$s ir %3$s nuo dabar</item>
+        <item>Šis žadintuvas yra nustatytas po %2$s ir %3$s nuo dabar</item>
+        <item>Šis žadintuvas yra nustatytas po %1$s, %2$s ir %3$s nuo dabar</item>
+    </string-array>
+    <string-array name="alarm_tone">
+        <item>Garsai</item>
+        <item>Eiti į Mano failai</item>
+    </string-array>
+    <string-array name="alarm_type">
+        <item>Melodija</item>
+        <item>Vibruoti</item>
+        <item>Vibravimas ir melodija</item>
+        <item>Trumpa informacija</item>
+    </string-array>
+    <string-array name="wc_menu_popup_set">
+        <item>Trinti</item>
+        <item>DST nustatymai</item>
+    </string-array>
+    <string-array name="wc_menu_dst_set">
+        <item>Automatinis</item>
+        <item>Išjungta</item>
+        <item>1 val.</item>
+        <item>2 valandos</item>
+    </string-array>
+    <string-array name="arr_indexlist_clock">
+        <item>+13</item>
+        <item>+12</item>
+        <item>+11</item>
+        <item>+10</item>
+        <item>+9</item>
+        <item>+8</item>
+        <item>+7</item>
+        <item>+6</item>
+        <item>+5</item>
+        <item>+4</item>
+        <item>+3</item>
+        <item>+2</item>
+        <item>+1</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+        <item>-4</item>
+        <item>-5</item>
+        <item>-6</item>
+        <item>-7</item>
+        <item>-8</item>
+        <item>-9</item>
+        <item>-10</item>
+        <item>-11</item>
+    </string-array>
+    <string-array name="timezonebar">
+        <item>-11</item>
+        <item>-10</item>
+        <item>-9</item>
+        <item>-8</item>
+        <item>-7</item>
+        <item>-6</item>
+        <item>-5</item>
+        <item>-4</item>
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+        <item>+4</item>
+        <item>+5</item>
+        <item>+6</item>
+        <item>+7</item>
+        <item>+8</item>
+        <item>+9</item>
+        <item>+10</item>
+        <item>+11</item>
+        <item>+12</item>
+        <item>+13</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nėra</item>
+        <item>Snausti</item>
+        <item>Atmesti</item>
+        <item>Tyla</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
